@@ -1,4 +1,4 @@
-/* Projeto 3 - Maíra Satiko Tabata (1561545) */ 
+/* Projeto 3  */ 
 #include <windows.h>
 #include <stdio.h>
 #include <GL/glut.h>
